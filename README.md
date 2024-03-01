@@ -1,4 +1,4 @@
-**JWKS Server**
+## JWKS Server
 
 This project implements a RESTful JWKS server that provides public keys for verifying JSON Web Tokens (JWTs). The server also supports key expiry, an authentication endpoint, and the issuance of JWTs with expired keys based on a query parameter.
 
